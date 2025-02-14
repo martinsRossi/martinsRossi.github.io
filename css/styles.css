@@ -44,6 +44,7 @@ h2 {
     color: #0073e6;
     border-bottom: 2px solid #0073e6;
     padding-bottom: 5px;
+    text-align: center;
 }
 
 .job, .education, .skills {
